@@ -4,7 +4,8 @@ Welcome to the **Healthcare Analytics Dashboard** repository! 🚀
 This project showcases a Power BI report designed for healthcare cost and performance analysis.  
 The dashboard provides an interactive view of KPIs, Year-over-Year (YoY) comparisons, and Pareto insights, helping stakeholders make data-driven decisions.
 
-[Healthcare Dashboard overview.pdf](https://github.com/user-attachments/files/21940228/Healthcare.Dashboard.overview.pdf)
+<img width="2667" height="1500" alt="Healthcare Dashboard overview" src="https://github.com/user-attachments/assets/93af5cb0-b93b-4aaa-b7f1-8651816417e4" />
+
 
 ## 📘 Project Overview
 
