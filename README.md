@@ -140,8 +140,9 @@ The data model in Power BI includes:
 ## 📄 Full Report Demo (PDF)
 You can also explore the entire report walkthrough in a PDF file:
 
-👉 *Download Healthcare Dashboard Demo (PDF)*  
-[Healthcare Dashboard.pdf](https://github.com/user-attachments/files/21940321/Healthcare.Dashboard.pdf)
+👉 *Download Healthcare Analytics Dashboard (PDF)*  
+[Healthcare Analytics Dashboard.pdf](https://github.com/user-attachments/files/21940852/Healthcare.Analytics.Dashboard.pdf)
+
 
 
 ---
