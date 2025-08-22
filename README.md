@@ -4,7 +4,7 @@ Welcome to the **Healthcare Analytics Dashboard** repository! 🚀
 This project showcases a Power BI report designed for healthcare cost and performance analysis.  
 The dashboard provides an interactive view of KPIs, Year-over-Year (YoY) comparisons, and Pareto insights, helping stakeholders make data-driven decisions.
 
----
+[Healthcare Dashboard overview.pdf](https://github.com/user-attachments/files/21940228/Healthcare.Dashboard.overview.pdf)
 
 ## 📘 Project Overview
 
@@ -50,7 +50,7 @@ Navigation hub with three main buttons:
 - Actual vs Previous Year (YoY Analysis)  
 - Pareto Analysis  
 
-📸 *[Insert screenshot of Homepage]*  
+---<img width="1793" height="1024" alt="image" src="https://github.com/user-attachments/assets/8be1db5f-1e4e-4ebc-9f6d-84303491bd84" />
 
 ---
 
@@ -71,11 +71,11 @@ Displays six main KPIs:
 - by Department  
 - by Diagnosis & Service Type (100% stacked bar chart)  
 
-Dark Mode version for low-light presentations.
 
-📸 *[Insert screenshot of KPI Overview page]*  
-📸 *[Insert screenshot of Dark Mode]*  
-🧮 *[Insert DAX screenshot for KPI measures]*  
+<img width="1797" height="1025" alt="image" src="https://github.com/user-attachments/assets/7b8e35e5-8bb9-4788-acf0-b941c46f169b" />
+
+Dark Mode version for low-light presentations.
+<img width="1792" height="1023" alt="image" src="https://github.com/user-attachments/assets/b0a64191-1bc0-43f7-8fb9-54cbc58998bf" />
 
 ---
 
@@ -95,8 +95,8 @@ Each KPI shows:
 
 **Interactivity:** Clicking a KPI updates charts & matrix dynamically.
 
-📸 *[Insert screenshot of Actual vs Previous Year page]*  
-🧮 *[Insert DAX screenshot for YoY calculation]*  
+<img width="1792" height="1023" alt="image" src="https://github.com/user-attachments/assets/5c2bb439-c058-4ef9-a11e-d6209336c0b2" />
+
 
 ---
 
@@ -119,8 +119,8 @@ Focused on **Billing Amount by Age Group**.
 
 UX highlighting consistent with chart.
 
-📸 *[Insert screenshot of Pareto Analysis page]*  
-🧮 *[Insert DAX screenshot for Pareto calculation]*  
+<img width="1792" height="1023" alt="image" src="https://github.com/user-attachments/assets/069fabf9-f2d5-431b-99d7-2c4923001478" />
+
 
 ---
 
@@ -130,7 +130,8 @@ The data model in Power BI includes:
 - **Fact Table:** Billing & Costs  
 - **Dimensions:** Patient, Procedure, Diagnosis, Department, Date, Insurance Provider  
 
-📸 *[Insert screenshot of Model View]*  
+<img width="1798" height="915" alt="image" src="https://github.com/user-attachments/assets/c71e0298-9c1d-4556-8798-1b951785933e" />
+
 
 ---
 
