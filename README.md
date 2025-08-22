@@ -113,10 +113,11 @@ Focused on **Billing Amount by Age Group**.
 
 **Matrix Table includes:**
 
-- Age Group  
-- Billing Amount  
-- % of Grand Total  
-- Cumulative Billing & %  
+- Custromer Age Group  
+- Billing  
+- Billing Grand Total %  
+- Billing Cumulative
+- Billing Cumulatice %  
 
 UX highlighting consistent with chart.
 
@@ -140,6 +141,8 @@ The data model in Power BI includes:
 You can also explore the entire report walkthrough in a PDF file:
 
 👉 *Download Healthcare Dashboard Demo (PDF)*  
+[Healthcare Dashboard.pdf](https://github.com/user-attachments/files/21940321/Healthcare.Dashboard.pdf)
+
 
 ---
 
