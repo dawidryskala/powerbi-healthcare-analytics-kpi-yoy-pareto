@@ -159,7 +159,3 @@ I enjoy building interactive dashboards, designing DAX logic, and helping busine
 📌 Connect with me on LinkedIn:  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dawid%20Ryskala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dawidryskala/)
-
----
-
-✅ Ten README jest gotowy do wrzucenia — wystarczy tylko podpiąć screeny i PDF.
